@@ -1,0 +1,32 @@
+
+.mainFormDiv {
+	z-index: 800;
+	margin-bottom: 15px;
+}
+
+.error_message {
+	color: red;
+}
+
+input[type="radio"] {
+	display: none;
+}
+
+body {
+	background-color: #cdd1dd;
+}
+
+*[role="form"] {
+	max-width: 530px;
+	padding: 15px;
+	margin: 0 auto;
+	background-color: #fff;
+	border-radius: 0.3em;
+	align-items: center;
+}
+
+
+.h1Tag {
+	font-weight: 800;
+}
+
